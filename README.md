@@ -68,4 +68,4 @@ String password = "yourpassword";
 - Advanced admin dashboard with analytics  
 
 ## 👨‍💻 Author  
-**Shubham Patel**  
+**Shubham Patel, Ayush Munjial, Krish Gondaliya **  
